@@ -1,4 +1,4 @@
-# GrantAccessTOEveryoneOnDrive
+# GrantAccessToEveryoneOnDrive
  A powershell script to add ACL on NTFS Drive, granting access for everyone.
 
 # Use Scenario
